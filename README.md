@@ -3,7 +3,7 @@
 <B> Build Source code</B>
 
 <li>Execute command</li>  
-<li>&nbsp&nbsp mvn springboot:run </li>
+<li>mvn springboot:run </li>
 
 <br>
 
